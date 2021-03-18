@@ -9,5 +9,3 @@ Main Routes are
     nodemon app.js
     node app.js
 
- until lecturer 35
-   Shopping Cart  Easy learning videos  
